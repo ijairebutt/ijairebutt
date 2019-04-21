@@ -1,6 +1,6 @@
 # Illustration
 
-All these results obtained from VGG-like structure on CIFAR10.
+All these results are obtained from VGG-like structure on CIFAR10.
 
 Figure1: Gradient w.r.t. |w|.
 
