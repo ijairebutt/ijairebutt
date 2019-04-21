@@ -1,10 +1,13 @@
 # Illustration
-Figure1: Gradient w.r.t. |w|
+
+All these results obtained from VGG-like structure on CIFAR10.
+
+Figure1: Gradient w.r.t. |w|.
 
 ![alt text](https://github.com/ijairebutt/ijairebutt/blob/master/g1.png)
 
 
-Figure2: Gradient w.r.t. |m|
+Figure2: Gradient w.r.t. |m|.
 
 ![alt text](https://github.com/ijairebutt/ijairebutt/blob/master/g2.png)
 
