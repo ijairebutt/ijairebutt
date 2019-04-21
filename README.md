@@ -14,12 +14,14 @@ Figure3:  Illustration of Consistent Gradient Directions w.r.t |w| and m
 ![alt text](https://github.com/ijairebutt/ijairebutt/blob/master/sign.png)
 
 
+Comparison of gradients of m with and without learning rate compensation. Pure white values are 0 so associated gradients are zero. Without compensation, with larger |w|, m is more sensitive to change. After compensation, the larger the |w|, the smaller is the change in m.
+
 Figure4:  Sensitivity of m. Without learning rate compensation
 
 ![alt text](https://github.com/ijairebutt/ijairebutt/blob/master/v_ab_no_comp.png)
 
 
-Figure4:  Sensitivity of m. With rescaling learning rate compensation
+Figure5:  Sensitivity of m. With rescaling learning rate compensation
 
 ![alt text](https://github.com/ijairebutt/ijairebutt/blob/master/v_ab_comp_scale.png)
 
